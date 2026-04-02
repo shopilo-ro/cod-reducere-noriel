@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-noriel",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Noriel de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-noriel",
+    "voucher-noriel",
+    "cupon-noriel",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/noriel.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-noriel.git"
+  }
+}
